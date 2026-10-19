@@ -25,5 +25,9 @@ A beginner-friendly Bash-based Linux monitoring tool that displays important sys
 ## How to Run
 
 ```bash
+nano monitor.sh #create an text editor
+ctrl+o #to save
+enter #To confirm filename
+ctrl+x #to exit
 chmod +x monitor.sh
 ./monitor.sh
