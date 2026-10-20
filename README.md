@@ -13,6 +13,7 @@ A beginner-friendly Bash-based Linux monitoring tool that displays important sys
 - Display Linux kernel version
 - Monitor memory usage
 - Monitor disk usage
+- Monitor disk space
 
 ## Technologies
 
