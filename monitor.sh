@@ -31,3 +31,7 @@ free -h
 echo ""
 echo "Disk Usage:"
 df -h
+
+echo ""
+echo "Disk space:"
+du -h
